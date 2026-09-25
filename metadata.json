@@ -1,0 +1,8 @@
+{
+  "name": "WhatsApp Web (Username Edition)",
+  "description": "A high-fidelity WhatsApp Web copy featuring unique @usernames for every user instead of phone numbers, complete with messaging, status stories, audio notes, and calls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

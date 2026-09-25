@@ -1,0 +1,144 @@
+{
+  "users": [
+    {
+      "id": "user_tayyab",
+      "name": "Tayyab Malik",
+      "username": "@tayyab_official",
+      "pin": "1234",
+      "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+      "about": "Available on @tayyab_official | Full stack developer",
+      "createdAt": "2026-09-25T16:36:15.180Z",
+      "lastSeen": "online"
+    },
+    {
+      "id": "user_ayesha",
+      "name": "Ayesha Khan",
+      "username": "@ayesha.khan",
+      "pin": "1234",
+      "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=150&auto=format&fit=crop&q=80",
+      "about": "Designing the future 🎨 ✨ | Find me on @ayesha.khan",
+      "createdAt": "2026-09-25T16:36:15.180Z",
+      "lastSeen": "online"
+    },
+    {
+      "id": "user_zain",
+      "name": "Zain Ahmed",
+      "username": "@zain_dev",
+      "pin": "1234",
+      "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+      "about": "Code. Ship. Repeat. 💻 🚀 Reach me at @zain_dev",
+      "createdAt": "2026-09-25T16:36:15.180Z",
+      "lastSeen": "today at 11:42 AM"
+    },
+    {
+      "id": "user_hamza",
+      "name": "Hamza Ali",
+      "username": "@hamza_99",
+      "pin": "1234",
+      "avatar": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&auto=format&fit=crop&q=80",
+      "about": "Capturing moments 📸 Northern expeditions. DM @hamza_99",
+      "createdAt": "2026-09-25T16:36:15.180Z",
+      "lastSeen": "online"
+    },
+    {
+      "id": "user_fatima",
+      "name": "Fatima Noor",
+      "username": "@fatima_tech",
+      "pin": "1234",
+      "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+      "about": "Researching neural models & multi-agent systems 🤖",
+      "createdAt": "2026-09-25T16:36:15.180Z",
+      "lastSeen": "today at 8:05 AM"
+    },
+    {
+      "id": "user_1790354196495",
+      "name": "Salman Khan",
+      "username": "@salman_pak",
+      "pin": "5555",
+      "avatar": "https://api.dicebear.com/7.x/bottts/svg?seed=@salman_pak",
+      "about": "Available on WhatsApp with unique @salman_pak",
+      "createdAt": "2026-09-25T16:36:36.495Z",
+      "lastSeen": "online"
+    }
+  ],
+  "messages": [
+    {
+      "id": "msg_init_1",
+      "chatId": "@ayesha.khan",
+      "senderId": "user_ayesha",
+      "senderName": "Ayesha Khan",
+      "senderUsername": "@ayesha.khan",
+      "receiverUsername": "@tayyab_official",
+      "text": "Hey Tayyab! Did you notice the new username feature? Anyone in the world can now register their own @username and message us without phone numbers! 🚀",
+      "timestamp": "10:14 AM",
+      "dateLabel": "TODAY",
+      "status": "read",
+      "isOutgoing": false,
+      "reactions": [
+        {
+          "emoji": "🔥",
+          "count": 1,
+          "users": [
+            "@tayyab_official"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msg_init_2",
+      "chatId": "@ayesha.khan",
+      "senderId": "user_tayyab",
+      "senderName": "Tayyab Malik",
+      "senderUsername": "@tayyab_official",
+      "receiverUsername": "@ayesha.khan",
+      "text": "Yes! It is completely global now. Anyone who opens the web app creates an account with their unique handle and we can talk directly.",
+      "timestamp": "10:16 AM",
+      "dateLabel": "TODAY",
+      "status": "read",
+      "isOutgoing": true,
+      "reactions": [
+        {
+          "emoji": "💯",
+          "count": 1,
+          "users": [
+            "@ayesha.khan"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "msg_welcome_1790354196496",
+      "chatId": "@ayesha.khan",
+      "senderId": "user_ayesha",
+      "senderName": "Ayesha Khan",
+      "senderUsername": "@ayesha.khan",
+      "receiverUsername": "@salman_pak",
+      "text": "Welcome to WhatsApp Web (Username Edition), Salman Khan! Your account is now active with unique username @salman_pak. Anyone worldwide can find you and chat! 🎉",
+      "timestamp": "04:36 PM",
+      "dateLabel": "TODAY",
+      "status": "delivered",
+      "isOutgoing": false
+    }
+  ],
+  "userContacts": {
+    "@tayyab_official": [
+      "@ayesha.khan",
+      "@zain_dev",
+      "@hamza_99",
+      "@fatima_tech"
+    ],
+    "@ayesha.khan": [
+      "@tayyab_official",
+      "@zain_dev"
+    ],
+    "@zain_dev": [
+      "@tayyab_official",
+      "@ayesha.khan"
+    ],
+    "@salman_pak": [
+      "@ayesha.khan",
+      "@zain_dev"
+    ]
+  },
+  "statuses": []
+}
